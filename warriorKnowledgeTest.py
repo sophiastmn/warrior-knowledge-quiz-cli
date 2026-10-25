@@ -3,15 +3,6 @@ import random;
 #####################  ###1###                                                                 #####################
 #####################  <<insert question 1 here>>////<<insert answer here>>                    #####################
 #####################  Warrior knowledge blocks are separated by ###<<warrior knowledge block number>>###  #########
-'''questions = ["Air Mobility Command", "Air Combat Command", "Air Education & Training Command", "Air Force Special Operations Command", "United States Air Forces in Europe - Air Forces Africa",
-             "Pacific Air Forces", "Air Force Materiel Command", "Air Force Reserve Command", "Air Force Global Strike Command", "Air National Guard", "Combat Forces Command", "Space Systems Command",
-             "Space Training and Readiness Command", "United States Space Command", "President", "Secretary of Defense", "Secretary of the Air Force", "Chief of Staff of the Air Force", "Air Education and Training Command Commander",
-             "Air University Commander", "Holm Center Commander", "AFROTC Commander", "Northwest Region Commander", "Det 105 Commander", "Chief of Space Operations", "Chief Master Sergeant of the Air Force",
-             "Chief Master Sergeant of the Space Force"][:14];
-answers = ["Scott AFB, IL", "Joint Base Langley-Eustis, VA", "Joint Base San Antonio-Randolph, TX", "Hurlburt Field, FL", "Ramstein AB, Germany", "Joint Base Pearl Harbor-Hickam, HI",
-           "Wright-Patterson AFB, OH", "Robins AFB, GA", "Barksdale AFB, LA", "Washington, D.C.", "Peterson SFB, CO", "Los Angeles SFB, CA", "Patrick SFB, FL", "Redstone Arsenal Huntsville, AL",
-           "Hon. Donald J. Trump", "Hon. Pete B. Hegseth", "Hon. Troy E. Meink", "Gen. Kenneth S. Wilsbach", "Lt Gen. Clark J. Quinn", "Maj Gen. Nathan L. Owendoff", "Brig Gen. Joseph L. Sheffield",
-           "Col. Michael G. Fleming", "Col. Sandra J. Coble", "Col. Rebecca S. Lange", "Lt Gen. Douglas Schiess", "David R. Wolfe", "John F. Bentivegna"][:14];'''
 
 def randomKnowledge(questions, answers):
     #generate random knowledge: returns question and answer
