@@ -8,7 +8,7 @@ To use:
 4) Type: python warriorKnowledgeTest.py
 5) Press enter and follow prompts to begin testing your knowledge. If this fails, alternatively try: python3 warriorKnowledgeTest.py
 
-You can either use my questions file or you can make your own using the same format (###<block number>### to indicate the numbers Note: I made this dumb, so it doesn't actually read the number, your file must be in numerical order for your inputs to make sense; \<question\>////\<answer\> for each question. Each question must be on its own line and cannot continue past the line).
+You can either use my questions file or you can make your own using the same format (###\<block number\>### to indicate the numbers Note: I made this dumb, so it doesn't actually read the number, your file must be in numerical order for your inputs to make sense; \<question\>////\<answer\> for each question. Each question must be on its own line and cannot continue past the line).
 
 Also, this is intentionally designed to force you to answer somewhat precisely. I have included the + option in order to let you recover points for small typos and the insignia descriptions, as those are very subjective. 
 
