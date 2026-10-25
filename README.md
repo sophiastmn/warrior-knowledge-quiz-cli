@@ -1,5 +1,6 @@
 # Warrior Knowledge Quiz CLI Program
 A CLI program for testing your FA26 Warrior knowledge
+
 To use:
 1) Install python on your computer
 2) Open your terminal
