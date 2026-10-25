@@ -14,6 +14,6 @@ Also, this is intentionally designed to force you to answer somewhat precisely. 
 
 I wrote this initially in literally 2 minutes for my own purposes. After some requests from other people for this, I've fixed it up a bit to be more user-friendly, but it's still a pretty rudimentary program. I might make a more advanced version at some point; I don't know yet.
 
-If you spot any bugs, let me know.
+If you spot any bugs you want me to fix, let me know.
 
  Let me know if you need help with any of these steps. I am happy to help! :D
